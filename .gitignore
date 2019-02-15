@@ -1,0 +1,7 @@
+/.vs
+/bin
+/obj
+/Xamarin.AbbyyRtr.iOS.1.0.6709.24753.nupkg
+/Xamarin.AbbyRtr.iOS.nuspec
+/nuget.exe
+/Native References/AbbyyRtrSDK.a
